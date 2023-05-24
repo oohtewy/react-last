@@ -10,8 +10,8 @@ function Layout(props) {
                     <a href="https://stackoverflow.com/"><img src="wat.png"/></a>
                 </div>
                 <div className='right'>
-                    <a href="#">Projects</a>
-                    <a href="#">Contact me</a>
+                    <a href="#first">Projects</a>
+                    <a href="#second">Contact me</a>
                 </div>
             </nav>
         </div>

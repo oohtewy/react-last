@@ -1,6 +1,7 @@
 import './App.css';
 import Layout from './Components/Layout'
 import Intro from './Components/Pages/Intro.jsx'
+import CBest from './Components/Pages/bests.jsx'
 
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div className="App">
       <Layout />
       <Intro />
+      <CBest />
     </div>
   );
 }

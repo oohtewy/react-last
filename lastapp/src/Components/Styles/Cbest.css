@@ -1,0 +1,25 @@
+main{
+    background-color: rgb(53, 0, 102);
+    width: 100%;
+    height: auto;
+    color: White;
+}
+.cards{
+    padding: 50px 0;
+    padding-left: 70px;
+}
+.card{
+    width: 500px;
+    height: auto;
+}
+.card img{
+    width: 500px;
+    height: 300px;
+}
+.card p a{
+    text-decoration: none;
+    color: black;
+}
+.card-title{
+    font-weight: 900;
+}
